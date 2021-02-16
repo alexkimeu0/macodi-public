@@ -902,6 +902,11 @@ label #cancel {
 .post-card > p {
     line-height: 1.6;
 }
-
-
 /* End Post page */
+
+/* Health Page */
+.health-title {
+    font-size: 30px;
+    color: var(--title);
+}
+/* End of Health */
